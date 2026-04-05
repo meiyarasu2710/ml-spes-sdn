@@ -1,0 +1,11 @@
+duration,packets,bytes,label
+10,200,5000,normal
+5,100,2000,normal
+20,500,12000,attack
+15,450,9000,attack
+8,150,3000,normal
+30,600,15000,attack
+12,250,6000,normal
+25,550,14000,attack
+7,180,3500,normal
+18,480,10000,attack
